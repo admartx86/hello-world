@@ -1,4 +1,4 @@
-🔰 Practice Project
+🔰 Practice
 
 First GitHub repo.
 
